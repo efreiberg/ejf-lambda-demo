@@ -1,0 +1,7 @@
+{
+      "runtime": "nodejs6.10",
+      "retainedVersions": 5,
+      "environment": {
+          "NODE_ENV": "development"
+      }
+}

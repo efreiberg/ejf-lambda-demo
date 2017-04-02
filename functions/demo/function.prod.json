@@ -1,0 +1,7 @@
+{
+      "runtime": "nodejs6.10",
+      "retainedVersions": 2,
+      "environment": {
+          "NODE_ENV": "production"
+      }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ejf-lambda-demo",
+  "description": "Production Version",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::169848224024:role/ejf-lambda-demo_lambda_function",
+  "environment": {}
+}
